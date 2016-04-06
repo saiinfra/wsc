@@ -1,0 +1,6 @@
+#surefire
+#Wed Jul 08 09:59:25 IST 2015
+user.dir=/home/infra3/projects/copado1/cop1/wsc
+localRepository=/home/infra3/.m2/repository
+gpg.skip=true
+basedir=/home/infra3/projects/copado1/cop1/wsc
